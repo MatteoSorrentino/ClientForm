@@ -142,9 +142,7 @@ namespace ClientForm5AI
                     client.Close();
                     client.Dispose();
                 }
-
             }
-
         }
     }
 }
